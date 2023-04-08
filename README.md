@@ -3,13 +3,8 @@
 ## :computer: instalação - Terraform Amazon Linux
 
 Instalacão
-
-
-
-
-
 ```bash
-  Entity Framework Core - https://learn.microsoft.com/pt-br/ef/core/cli/powershell
+  Instalação - https://learn.microsoft.com/pt-br/ef/core/cli/powershell
 ```
 
 
