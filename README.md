@@ -7,8 +7,10 @@ Instalacão
 https://learn.microsoft.com/pt-br/ef/core/cli/powershell
 ```
 
+⚡ MultiCloud com DevOps 
+## 🛠 Executando o arquivo main.tf
 
-Para iniciar o teste Projeto
+1. No terminal da AWS opçao action efetuar o upload do arquivo "main.tf"  👋
 
 ```bash
   Deletar da pasta Migrations "AppDbContextModelSnapshot"
