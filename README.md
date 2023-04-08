@@ -20,7 +20,7 @@ https://learn.microsoft.com/pt-br/ef/core/cli/powershell
 ```
 
 ```bash
-Tornar o Bucket Privado
+Tornar o Bucket Privado - inserir o codigo no arquivo e executar os comandos "terraform plan" e "terraform apply"
 
   resource "aws_s3_bucket_public_access_block" "s3_block" {
   bucket = aws_s3_bucket.s3_bucket.id
