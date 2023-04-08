@@ -4,7 +4,7 @@
 
 Instalacão
 ```bash
-  Instalação - https://learn.microsoft.com/pt-br/ef/core/cli/powershell
+https://learn.microsoft.com/pt-br/ef/core/cli/powershell
 ```
 
 
