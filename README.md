@@ -8,9 +8,11 @@ https://learn.microsoft.com/pt-br/ef/core/cli/powershell
 ```
 
 ⚡ MultiCloud com DevOps 
-## 🛠 Executando o arquivo main.tf
+## 🛠 Provisionar Bucket no S3 AWS - Executando o arquivo main.tf
 
 1. No terminal da AWS opçao action efetuar o upload do arquivo "main.tf"  👋
+2. Depois do upoload do Arquivo iremos executar comando do "Terraform "  👋
+
 
 ```bash
   Deletar da pasta Migrations "AppDbContextModelSnapshot"
