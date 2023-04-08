@@ -21,8 +21,7 @@ https://learn.microsoft.com/pt-br/ef/core/cli/powershell
 
 ```bash
 Tornar o Bucket Privado
-```
-```bash
+
   resource "aws_s3_bucket_public_access_block" "s3_block" {
   bucket = aws_s3_bucket.s3_bucket.id
 
