@@ -33,10 +33,6 @@ Tornar o Bucket Privado - inserir o codigo no arquivo e executar os comandos "te
 ```
 
 
-
-
-
-
 <p align="center">
 ⚡ Documentação 👋
     (https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
