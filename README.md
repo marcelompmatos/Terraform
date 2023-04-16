@@ -4,7 +4,7 @@
 
 Instalacão
 ```bash
-https://learn.microsoft.com/pt-br/ef/core/cli/powershell
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 ```
 
 ⚡ MultiCloud com DevOps 
